@@ -20,7 +20,6 @@ Resources
 -   [Webpack beginner guide](https://alx-intranet.hbtn.io/rltoken/6ngQzrV7xeKJjcRwdmrYAQ "Webpack beginner guide")
 -   [npm-package.json](https://alx-intranet.hbtn.io/rltoken/P00rJM5qCeaf33hsPuhgog "npm-package.json")
 
-
 Tasks
 -----
 
@@ -136,7 +135,6 @@ Create a specific configuration for Webpack.
 -   Directory: `0x00-Webpack`
 -   File: `task_2/package.json, task_2/css/main.css, task_2/webpack.config.js, task_2/js/dashboard_main.js, task_2/public/index.html`
 
- Done? Help Check your code
 
 ### 3\. Dev servers, modules, and tree shaking
 
