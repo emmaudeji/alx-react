@@ -1,3 +1,5 @@
+// Async Action Creators
+
 import { SELECT_COURSE, UNSELECT_COURSE } from './courseActionTypes';
 
 
